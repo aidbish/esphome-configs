@@ -27,6 +27,7 @@ standard: global
 | GPIO32  | Power Down Pin                     |
 | GPIO4   | Camera Light                       |
 
+
 ## Basic Configuration
 ```yaml
 # Basic Config
